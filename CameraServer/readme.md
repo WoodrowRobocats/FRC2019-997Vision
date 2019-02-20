@@ -14,3 +14,14 @@ The command line utility is built, using `gradlew build`, into a pip package and
 # Credits
 1. [http://synack.me/blog/implementing-http-live-streaming](http://synack.me/blog/implementing-http-live-streaming)
 2. [https://gist.github.com/sakti/4761739](https://gist.github.com/sakti/4761739)
+
+Vision processing on desktop for simulation and network tables
+https://www.youtube.com/watch?v=QIGn90hKnv8
+
+Pi Vision including setup, project build and deploy. Don’t forget to change the hostname!! **** VERY USEFUL!!!
+Part 4 pulls everything together including an application pushing data to network tables.
+Part 5 is code analysis. 
+Part 6 - GRIP
+Part 7 - Debugging
+https://github.com/Team997Coders/BB2018BallFindingVision
+https://www.youtube.com/watch?v=Zgt2vMSxNbs
