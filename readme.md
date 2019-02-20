@@ -84,3 +84,16 @@ Youtube videos are located on the [Spartan Robotics](https://www.youtube.com/cha
 Having trouble executing tests that depend on Java Native Interfaces (JNI) like opencv?  See this [Chief Delphi Post](https://www.chiefdelphi.com/forums/showthread.php?t=167097).
 "# FRC2019-997Vision" 
 "# FRC2019-997Vision" 
+i
+##Additional links to original videos etc...
+Vision processing on desktop for simulation and network tables
+https://www.youtube.com/watch?v=QIGn90hKnv8
+
+Pi Vision including setup, project build and deploy. Don’t forget to change the hostname!! **** VERY USEFUL!!!
+Part 4 pulls everything together including an application pushing data to network tables.
+Part 5 is code analysis. 
+Part 6 - GRIP
+Part 7 - Debugging
+https://github.com/Team997Coders/BB2018BallFindingVision
+https://www.youtube.com/watch?v=Zgt2vMSxNbs
+
